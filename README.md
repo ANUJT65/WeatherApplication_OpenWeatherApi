@@ -2,15 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![weather1](https://github.com/ANUJT65/weather_app/assets/123918593/ee335b1a-e715-4221-b696-9050bed3b38e)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![weather2fareheit](https://github.com/ANUJT65/weather_app/assets/123918593/b4c738d0-b337-4145-9134-e93c232f165c)
